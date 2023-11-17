@@ -15,7 +15,7 @@ The study utilizes Latent Dirichlet Allocation (LDA), a topic modeling technique
 ## Repository Structure
 - `Data/`: Contains the datasets, including party platforms.
 - `Notebooks/`: Jupyter notebooks with detailed analysis steps.
-- `Results/`: Outputs such as visualizations and summaries.
+- `Results/`: Outputs such as visualizations and summaries of findings and code in PDF form.
 - `README.md`: Overview of the project and replication instructions.
 
 ## Running the Analysis
